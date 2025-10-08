@@ -4,7 +4,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-5.0-blue)
 ![Tailwind](https://img.shields.io/badge/CSS-38B2AC)
 
-Una interfaz moderna y responsive para gestión de usuarios construida con React y TypeScript.
+Una interfaz moderna y responsive para gestión de usuarios construida con React y JavaScript.
 
 ## 🖼️ Capturas de Pantalla
 
@@ -34,7 +34,7 @@ Una interfaz moderna y responsive para gestión de usuarios construida con React
 ### Prerrequisitos
 - Node.js 16+ 
 - npm o yarn
-- API Backend (Laravel/Node.js)
+- API Backend (Laravel)
 
 ### Pasos de Instalación
 
