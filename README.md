@@ -1,7 +1,7 @@
 # 🚀 User CRUD - React Frontend
 
 ![React](https://img.shields.io/badge/React-18.2.0-blue)
-![TypeScript](https://img.shields.io/badge/JavaScript-5.0-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-5.0-blue)
 ![Tailwind](https://img.shields.io/badge/CSS-38B2AC)
 
 Una interfaz moderna y responsive para gestión de usuarios construida con React y TypeScript.
@@ -9,13 +9,13 @@ Una interfaz moderna y responsive para gestión de usuarios construida con React
 ## 🖼️ Capturas de Pantalla
 
 ### 📱 Vista Principal
-![Vista Principal](\Users\Itzel\Pictures\Screenshot\react1.png)
+![Vista Principal](/docs/react1.png)
 
 ### ✏️ Formulario de Usuario
-![Formulario](\Users\Itzel\Pictures\Screenshot\react2.png)
+![Formulario](/docs/react2.png)
 
 ### 📊 Detalle de Usuarios
-![Detalle](\Users\Itzel\Pictures\Screenshot\react3.png)
+![Detalle](/docs/react3.png)
 
 ## ✨ Características
 
