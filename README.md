@@ -1,26 +1,45 @@
-# FRONTEND - REACT (user-crud-frontend/README.md)
+# 🚀 User CRUD - React Frontend
 
-## CRUD de Usuarios - Frontend React
+![React](https://img.shields.io/badge/React-18.2.0-blue)
+![TypeScript](https://img.shields.io/badge/JavaScript-5.0-blue)
+![Tailwind](https://img.shields.io/badge/CSS-38B2AC)
 
-### Descripción
-Frontend moderno y responsive para sistema de gestión de usuarios. Desarrollado en React con conexión a API Laravel.
+Una interfaz moderna y responsive para gestión de usuarios construida con React y TypeScript.
 
-## Tecnologías Utilizadas
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+## 🖼️ Capturas de Pantalla
 
-## Capturas de Pantalla
+### 📱 Vista Principal
+![Vista Principal](\Users\Itzel\Pictures\Screenshot\react1.png)
 
-### Lista de Usuarios
-![Lista de Usuarios](images/user-list.png)
+### ✏️ Formulario de Usuario
+![Formulario](\Users\Itzel\Pictures\Screenshot\react2.png)
 
-### Formulario de Creación/Edición
-![Formulario Usuario](images/user-form.png)
+### 📊 Detalle de Usuarios
+![Detalle](\Users\Itzel\Pictures\Screenshot\react3.png)
 
-### Vista Responsive (Móvil)
-![Vista Móvil](images/mobile-view.png)
+## ✨ Características
 
-### Modal de Detalles
-![Detalles Usuario](images/user-detail.png)
+- ✅ **CRUD Completo**: Crear, leer, actualizar y eliminar usuarios
+- 🎨 **UI Moderna**: Interfaz diseñada con CSS
+- ⚡ **Rendimiento Optimizado**: React Query para caching
+- 🎯 **Notificaciones**: Feedback visual para todas las acciones
+
+## 🛠️ Tecnologías Utilizadas
+
+- **Frontend**: React, JavaScript
+- **Estilos**: CSS
+
+## 🚀 Instalación y Configuración
+
+### Prerrequisitos
+- Node.js 16+ 
+- npm o yarn
+- API Backend (Laravel/Node.js)
+
+### Pasos de Instalación
+
+1. **Clonar el Repositorio**
+   ```bash
+   git clone https://github.com/itzelmb6/user_crud_frontend.git
+   cd user_crud_frontend
+   npm start
