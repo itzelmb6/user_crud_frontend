@@ -18,7 +18,7 @@ const UserItem = ({ user, onView, onEdit, onDelete }) => {
           className="btn btn-view"
           title="Ver detalles"
         >
-          👁️
+          🔍
         </button>
         <button 
           onClick={() => onEdit(user)}
